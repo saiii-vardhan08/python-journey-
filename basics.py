@@ -7,7 +7,6 @@ price = 19.64
 print(age1)
 print(price)
 
-
 #taking input
 name = input("enter your name ") #this returns the string
 print(name)
