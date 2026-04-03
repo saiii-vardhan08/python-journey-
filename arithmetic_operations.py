@@ -21,4 +21,4 @@ print(y)
 
 
 k = 10
-print(k++) #inrement operation which increases k by one post increment
+print(k+=1) #inrement operation which increases k by one post increment
